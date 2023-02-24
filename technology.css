@@ -25,6 +25,9 @@ hr{
     .home,.destination,.crew,.technology{
         opacity: 0.7 !important;
     }
+    .navbar-nav{
+        line-height: 3;
+    }
 }
 .section-tech {
     padding-left: 0;
