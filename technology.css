@@ -9,7 +9,8 @@ html,body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    padding-bottom: 10rem;
+    padding-bottom: 8rem;
+    background-color:grey;
     padding-left: 0;
     padding-right: 0;
 }
