@@ -24,6 +24,7 @@ hr{
 @media(max-width:768px){
     .home,.destination,.crew,.technology{
         opacity: 0.7 !important;
+        transform:scale(1.06);
     }
     .navbar-nav{
         line-height: 3;
