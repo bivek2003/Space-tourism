@@ -1,7 +1,10 @@
 .navbar {
   padding: 1rem 1rem;
 }
-
+body{
+  background-image: url(./starter-code/assets/home/background-home-mobile.jpg);
+  background-position: bottom;
+}
 .main {
   background-image: url(./starter-code/assets/home/background-home-mobile.jpg);
   background-position: center;
