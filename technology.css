@@ -4,6 +4,10 @@
 html,body{
     overflow-x: hidden;
 }
+body{
+  background-image: url(./starter-code/assets//technology/background-technology-mobile.jpg);
+  background-position: bottom;
+}
 .main {
     background-image: url(./starter-code/assets/technology/background-technology-mobile.jpg);
     background-position: center;
