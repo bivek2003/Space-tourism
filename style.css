@@ -11,7 +11,7 @@
 
 .container-fluid {
   padding: 0;
-  padding-bottom: 7rem;
+  padding-bottom: 4rem;
 }
 .navbar-nav{
   line-height:3;
@@ -24,6 +24,7 @@
   font-family: "Barlow Condensed";
   text-align: center;
   opacity: 1;
+  padding-left:12px;
 }
 
 .text-part h3 {
