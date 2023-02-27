@@ -311,6 +311,7 @@ body{
 @media (min-width: 1240px) {
   .row {
     padding-left: 9rem;
+    padding-top: 5rem;
   }
   .Explore {
     font-size: 32px;
